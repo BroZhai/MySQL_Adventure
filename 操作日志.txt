@@ -1,0 +1,3 @@
+搞懂了 database 和 table;
+搞懂了 table里面的 各个'栏位' 和 属性; modify / change
+搞懂了添加元组(数据条)insert, 删除 delete，改动 update
