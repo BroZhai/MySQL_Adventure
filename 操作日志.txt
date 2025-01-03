@@ -1,3 +1,6 @@
 搞懂了 database 和 table;
 搞懂了 table里面的 各个'栏位' 和 属性; modify / change
 搞懂了添加元组(数据条)insert, 删除 delete，改动 update
+
+练习巩固了 group by... having 的用法，知道了前面select的栏位 必须也要在后面的 group by 中出现(如果select多个栏位)。但是聚合函数()就不用了，它会自行出现在后面group by的展示中
+ 
