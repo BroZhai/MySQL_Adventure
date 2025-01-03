@@ -4,3 +4,4 @@
 
 练习巩固了 group by... having 的用法，知道了前面select的栏位 必须也要在后面的 group by 中出现(如果select多个栏位)。但是聚合函数()就不用了，它会自行出现在后面group by的展示中
 学会了Order by，升asc/降序desc排序
+学会了简单的综合运用查询语句，以及简单的创建删除新database用户
