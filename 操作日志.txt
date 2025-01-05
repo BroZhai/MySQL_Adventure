@@ -16,5 +16,5 @@
 2025.01.04
 
 学会了 创建/更改栏位的'各种约束', primary key主键, unique 独特键(primary key备选), foreign key 外表主键等...
-
+学会了 针对'外键变动'时的约束，On update 主表主键更新时要干什么, On Delete 主表主键删除时要干什么
 2025.01.05
